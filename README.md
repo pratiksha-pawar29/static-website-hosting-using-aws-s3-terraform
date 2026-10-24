@@ -58,22 +58,17 @@ git clone https://github.com/pratiksha-pawar29/static-website-hosting-using-aws-
 cd static-website-hosting-using-aws-s3-terraform
 
 2. Initialize Terraform
-
 terraform init
 
 3. Format and Validate the Configuration
-
 terraform fmt
 terraform validate
 
 4. Review the Execution Plan
-
 terraform plan
 
 5. Deploy the Infrastructure
-
 After reviewing the plan and confirming the configuration:
-
 terraform apply
 
 Type "yes" if prompted and you approve the planned changes.
