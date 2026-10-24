@@ -119,9 +119,6 @@ Through this project, I developed practical understanding of:
 
 👩‍💻 Author:Pratiksha Pawar
 
-
-Project: https://github.com/pratiksha-pawar29/static-website-hosting-using-aws-s3-terraform
-
 ---
 
 This project is part of my hands-on learning journey in AWS, Terraform, DevOps, and Cloud Computing.
