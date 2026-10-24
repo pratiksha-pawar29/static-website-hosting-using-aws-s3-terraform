@@ -20,6 +20,10 @@ The website displays a simple homepage and is accessible through an Amazon S3 st
 
 User → Amazon S3 Static Website Hosting → Public Website URL
 
+## Architecture Diagram
+
+![AWS S3 Static Website Hosting Architecture](architecture.png)
+
 Optional enhancements:
 
 - Amazon CloudFront: Content delivery and HTTPS support.
