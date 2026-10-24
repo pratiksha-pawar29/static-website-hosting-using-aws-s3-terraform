@@ -17,6 +17,9 @@ The website displays a simple homepage and is accessible through an Amazon S3 st
 - Understand Infrastructure as Code (IaC) concepts.
 
 🏗️ Architecture
+## Architecture Diagram
+
+![AWS S3 Static Website Hosting Architecture](Architecture.png)
 
 User → Amazon S3 Static Website Hosting → Public Website URL
 
